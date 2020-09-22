@@ -13,13 +13,15 @@
 👀 本仓库会搜罗 `Vue3.0` 相关的学习资源，并且我会在仓库内更新一些 `Vue3.0` 相关的小 Demo，供大家学习和参考。
 
 📖 下面是 `Vue3.0` 及周边相关文档地址：
+
 | 相关库名称 | 在线地址 🔗 |
 | --------- | ----- |
 | Vue3.0 官方文档 | [在线地址](https://v3.vuejs.org/) |
 | Vue3.0 中文文档 | [在线地址](https://v3.cn.vuejs.org/) |
 | Vue-Router 官方文档 | [在线地址](https://next.router.vuejs.org/) |
 | Vuex4.0（目前在 beta 阶段） | [Github](https://github.com/vuejs/vuex/tree/4.0) |
-</br>
+
+
 🎨 更新 Vue3.0 版本的 UI 库：
 
 | 相关库名称 | 文档地址 | 仓库地址 |
