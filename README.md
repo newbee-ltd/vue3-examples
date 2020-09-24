@@ -68,6 +68,8 @@
 
 [**Vue3.0 基础入门视频**](https://www.bilibili.com/video/BV14k4y117LL?from=search&seid=6349481458083478669)（白嫖）
 
+[**来自一个博主的学习资料网盘网站**](https://dot2.com/pan)
+
 # Vue-Router4.x 相关文章
 ### 解释类文章
 [**当无情面试官问 vue-next-router 带来了哪些变化？**](https://segmentfault.com/a/1190000022582928)
