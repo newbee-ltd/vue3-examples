@@ -26,7 +26,9 @@
 | 相关库名称 | 在线地址 🔗 |
 | --------- | ----- |
 | Vue3.0 官方文档 | [在线地址](https://v3.vuejs.org/) |
-| Vue3.0 中文文档 | [在线地址](https://v3.cn.vuejs.org/) |
+| Vue3.0 中文文档 | [在线地址](https://v3.cn.vuejs.org/) [国内加速版](https://vue3js.cn/docs/zh/)|
+| Composition-API手册 | [在线地址](https://vue3js.cn/vue-composition-api/) |
+| Vue3.0 源码学习 | [在线地址](https://vue3js.cn/start/) |
 | Vue-Router 官方文档 | [在线地址](https://next.router.vuejs.org/) |
 | Vuex4.0（目前在 beta 阶段） | [Github](https://github.com/vuejs/vuex/tree/4.0) |
 
@@ -45,10 +47,26 @@
 [**拿下 Vue3 你要做好这些准备**](https://www.juejin.im/post/6866373381424414734)
 
 [**vue-next 贡献指南（谷歌翻译版)**](https://gitee.com/kennana/vue_next_learning)
+
+[**最全的Vue3.0升级指南**](https://zhuanlan.zhihu.com/p/191216161)
+
+[**写给 Vue2.0 开发者的 Vue3.0 教程**](https://cloud.tencent.com/developer/article/1633100)
+
+[**使用Vue3.0，我收获了哪些知识点（一）**](https://mp.weixin.qq.com/s/2S6txkd_LiHCDMt7W-4iCg)
+
+[**使用Vue3.0，我收获了哪些知识点（二）**](https://mp.weixin.qq.com/s/17WRbm6cCtsL9tiThcJKTQ)
+
+[**Vue3.0 尝鲜后收获的知识点**](https://mp.weixin.qq.com/s/-WwYxgPqVUtftLGQLGuhkA)
+
+
 ### 实战类文章
-[**学习 Vue3.0，先从搭建环境开始**](https://mp.weixin.qq.com/s/Bmul8_LUzKBCDKsaP3i_Cg)
+[**学习 Vue3.0，先从搭建环境开始**](https://mp.weixin.qq.com/s/Hp0HYLVZX13PMMTZRUIsQQ)
+
+[**使用Vite + Vue3.0搭建项目**](https://www.jianshu.com/p/0ebd56cb22d2)
 
 [**Vue3.0 Composition API 入门教程**](https://blog.csdn.net/fungleo/category_10020552.html)
+
+[**Vue3.0 基础入门视频**](https://www.bilibili.com/video/BV14k4y117LL?from=search&seid=6349481458083478669)（白嫖）
 
 # Vue-Router4.x 相关文章
 ### 解释类文章
