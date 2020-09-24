@@ -41,7 +41,9 @@
 
 
 # Vue3.0 相关文章
-[拿下 Vue3 你要做好这些准备](https://www.juejin.im/post/6866373381424414734)（解释类）
+## 解释类文章
+[**拿下 Vue3 你要做好这些准备**](https://www.juejin.im/post/6866373381424414734)
 
-[学习 Vue3.0，先从搭建环境开始](https://mp.weixin.qq.com/s/Bmul8_LUzKBCDKsaP3i_Cg)（项目类）
+## 实战类文章
+[**学习 Vue3.0，先从搭建环境开始**](https://mp.weixin.qq.com/s/Bmul8_LUzKBCDKsaP3i_Cg)
 
