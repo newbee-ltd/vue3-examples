@@ -55,4 +55,4 @@
 [**当无情面试官问 vue-next-router 带来了哪些变化？**](https://segmentfault.com/a/1190000022582928)
 # 学习交流
 ### QQ学习交流群：932227898
-![](https://s.yezgea02.com/1600932714747/3001600932707_.pic_hd.jpg)
+![](https://s.yezgea02.com/1600934637990/qqroom%20(1).png)
