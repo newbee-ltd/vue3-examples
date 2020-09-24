@@ -49,3 +49,9 @@
 [**学习 Vue3.0，先从搭建环境开始**](https://mp.weixin.qq.com/s/Bmul8_LUzKBCDKsaP3i_Cg)
 [**Vue3.0 Composition API 入门教程**](https://blog.csdn.net/fungleo/category_10020552.html)
 
+# Vue-Router4.x 相关文章
+### 解释类文章
+[**当无情面试官问 vue-next-router 带来了哪些变化？**](https://segmentfault.com/a/1190000022582928)
+# 学习交流
+### QQ学习交流群：932227898
+![](https://s.yezgea02.com/1600932714747/3001600932707_.pic_hd.jpg)
