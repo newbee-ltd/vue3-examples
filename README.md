@@ -13,7 +13,7 @@
 <!--   0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟 -->
 ⌛ 最近更新时间：2️⃣ 0️⃣ 2️⃣ 0️⃣ / 0️⃣ 9️⃣ / 2️⃣ 4️⃣ ⏳
 
-👀 本仓库会搜罗 `Vue3.0` 相关的学习资源，并且我会在仓库内更新一些 `Vue3.0` 相关的小 Demo，供大家学习和参考。
+👀 本仓库会搜罗 `Vue3.0` 相关的学习资源，都是本人阅读后，觉得写得好，并且对 Vue3.0 学习有帮助的文章或项目。本人也会在仓库内更新一些 `Vue3.0` 相关的小 Demo，供大家学习和参考。
 
 仓库食用说明：
 
@@ -44,6 +44,8 @@
 ### 解释类文章
 [**拿下 Vue3 你要做好这些准备**](https://www.juejin.im/post/6866373381424414734)
 
+[**vue-next 贡献指南（谷歌翻译版)**](https://gitee.com/kennana/vue_next_learning)
 ### 实战类文章
 [**学习 Vue3.0，先从搭建环境开始**](https://mp.weixin.qq.com/s/Bmul8_LUzKBCDKsaP3i_Cg)
+[**Vue3.0 Composition API 入门教程**](https://blog.csdn.net/fungleo/category_10020552.html)
 
