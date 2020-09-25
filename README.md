@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s.yezgea02.com/1600765241808/onpeice.png" />
+  <img src="https://s.yezgea02.com/1600765241808/onpeice.png" alt="One Piece" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/%E5%95%A5%E9%83%BD%E5%88%AB%E8%AF%B4-%E6%89%B6%E6%88%91%E8%B5%B7%E6%9D%A5-%2341b883?style=for-the-badge&logo=appveyor">
@@ -11,7 +11,7 @@
 
 # Vue3.0 学习相关（不限文章、项目、视频）
 <!--   0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟 -->
-⌛ 最近更新时间：2️⃣ 0️⃣ 2️⃣ 0️⃣ / 0️⃣ 9️⃣ / 2️⃣ 4️⃣ ⏳
+⌛ 最近更新时间：2️⃣ 0️⃣ 2️⃣ 0️⃣ / 0️⃣ 9️⃣ / 2️⃣ 5️⃣ ⏳
 
 👀 本仓库会搜罗 `Vue3.0` 相关的学习资源，都是本人阅读后，觉得写得好，并且对 Vue3.0 学习有帮助的文章或项目。本人也会在仓库内更新一些 `Vue3.0` 相关的小 Demo，供大家学习和参考。
 
