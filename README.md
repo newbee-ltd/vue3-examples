@@ -38,7 +38,7 @@
 | --------- | ----- | ----- |
 | Vant | [在线地址](https://vant-contrib.gitee.io/vant/next/#/) | [在线地址](https://github.com/youzan/vant/tree/next) |
 | Ant Design Vue | [在线地址](https://2x.antdv.com/docs/vue/introduce-cn/) | [在线地址](https://github.com/vueComponent/ant-design-vue/) |
-| Element-plus(社区版) | 目前是 alpha版</br>还在努力更新中 | [在线地址](https://github.com/element-plus/element-plus/issues/171) |
+| Element-plus(社区版) | [在线地址](https://element3.vercel.app/#/zh-CN) | [在线地址](https://github.com/element-plus/element-plus/issues/171) |
 | Taro(Vue3) | [在线地址](http://taro-docs.jd.com/taro/docs/vue3) | [在线地址](https://github.com/nervjs/taro) |
 
 
