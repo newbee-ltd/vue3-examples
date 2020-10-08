@@ -9,17 +9,11 @@
   <img src="https://img.shields.io/badge/license-MIT-%23ccc">
 </p>
 
-# Vue3.0 学习相关（不限文章、项目、视频）
+# Vue3.0 学习相关
 <!--   0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣🔟 -->
 ⌛ 最近更新时间：2️⃣ 0️⃣ 2️⃣ 0️⃣ / 0️⃣ 9️⃣ / 2️⃣ 8️⃣ ⏳
 
-👀 本仓库会搜罗 `Vue3.0` 相关的学习资源，都是本人阅读后，觉得写得好，并且对 Vue3.0 学习有帮助的文章或项目。本人也会在仓库内更新一些 `Vue3.0` 相关的小 Demo，供大家学习和参考。
-
-仓库食用说明：
-
-解释类：解释类文章是对某些技术的理解以及 API 的解析。
-
-项目类：项目类指文章输出一些能用于项目的实用方，亦或是入门某项技术的文章。
+👀 本人会在仓库内更新一些 `Vue3.0` 相关的小 Demo，供大家学习和参考。
 
 📖 下面是 `Vue3.0` 及周边相关文档地址：
 
@@ -42,37 +36,6 @@
 | Taro(Vue3) | [在线地址](http://taro-docs.jd.com/taro/docs/vue3) | [在线地址](https://github.com/nervjs/taro) |
 
 
-# Vue3.0 相关文章
-### 解释类文章
-[**拿下 Vue3 你要做好这些准备**](https://www.juejin.im/post/6866373381424414734)
-
-[**vue-next 贡献指南（谷歌翻译版)**](https://gitee.com/kennana/vue_next_learning)
-
-[**最全的Vue3.0升级指南**](https://zhuanlan.zhihu.com/p/191216161)
-
-[**写给 Vue2.0 开发者的 Vue3.0 教程**](https://cloud.tencent.com/developer/article/1633100)
-
-[**使用Vue3.0，我收获了哪些知识点（一）**](https://mp.weixin.qq.com/s/2S6txkd_LiHCDMt7W-4iCg)
-
-[**使用Vue3.0，我收获了哪些知识点（二）**](https://mp.weixin.qq.com/s/17WRbm6cCtsL9tiThcJKTQ)
-
-[**Vue3.0 尝鲜后收获的知识点**](https://mp.weixin.qq.com/s/-WwYxgPqVUtftLGQLGuhkA)
-
-
-### 实战类文章
-[**学习 Vue3.0，先从搭建环境开始**](https://mp.weixin.qq.com/s/Hp0HYLVZX13PMMTZRUIsQQ)
-
-[**使用Vite + Vue3.0搭建项目**](https://www.jianshu.com/p/0ebd56cb22d2)
-
-[**Vue3.0 Composition API 入门教程**](https://blog.csdn.net/fungleo/category_10020552.html)
-
-[**Vue3.0 基础入门视频**](https://www.bilibili.com/video/BV14k4y117LL?from=search&seid=6349481458083478669)（白嫖）
-
-[**来自一个博主的学习资料网盘网站**](https://dot2.com/pan)
-
-# Vue-Router4.x 相关文章
-### 解释类文章
-[**当无情面试官问 vue-next-router 带来了哪些变化？**](https://segmentfault.com/a/1190000022582928)
-# 学习交流
+## 学习交流
 ### QQ学习交流群：932227898
 ![](https://s.yezgea02.com/1600934637990/qqroom%20(1).png)
