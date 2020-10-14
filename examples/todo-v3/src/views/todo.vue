@@ -5,7 +5,7 @@
       <a-layout-content>
         <a-input-search
           v-model:value="todo"
-          placeholder="请输入要代办的事项"
+          placeholder="新增待办事项"
           size="large"
           @search="addTodo"
         >
@@ -34,10 +34,11 @@
 
 <script>
 import { ref, reactive, computed } from 'vue'
+import { message } from 'ant-design-vue'
 export default {
   setup() {
     const todo = ref('')
-    const time = `${new Date().getFullYear()}-${new Date().getMonth()}-${new Date().getDate()}`
+    const time = `${new Date().getFullYear()}-${new Date().getMonth() + 1}-${new Date().getDate()}`
 
     const state = reactive({
       todoList: [
