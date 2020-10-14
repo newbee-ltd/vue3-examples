@@ -2,7 +2,7 @@
   <div id="components-layout-demo-basic">
     <a-layout>
       <a-layout-header>待办事项</a-layout-header>
-      <a-layout-content>
+      <a-layout-conte nt>
         <a-input-search
           v-model:value="todo"
           placeholder="新增待办事项"
@@ -35,6 +35,7 @@
 <script>
 import { ref, reactive, computed } from 'vue'
 import { message } from 'ant-design-vue'
+import { BankOutlined } from '@ant-design/icons-vue'
 export default {
   setup() {
     const todo = ref('')
