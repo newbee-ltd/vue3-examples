@@ -45,6 +45,8 @@
 | Vuex4.0（目前在 beta 阶段） | [Github](https://github.com/vuejs/vuex/tree/4.0) |
 | vue-devtools | [Github](https://github.com/vuejs/vue-devtools/releases)(Vue3.0 需要使用最新版本) |
 | Vite 源码学习 | [线上地址](https://vite-design.surge.sh/guide/) |
+| Vite 中文文档 | [线上地址](https://cn.vitejs.dev/) |
+
 
 🎨 更新 `Vue3.0` 版本的 UI 库：
 
